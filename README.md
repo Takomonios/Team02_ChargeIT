@@ -2,6 +2,8 @@
 this will be our Team project repo with project overview!
 If you have never use GitHub before -> go to project -> choose "project team2" -> choose ticket "get into Github" there I have provide 2 short youtube links, where some basics will be explain.
 
+first meetup is on 06.07.2023 at 18:30 in our Teams Chat - at 19:00 we have our TechLabs Event
+
 Some rolls that we can have as a Team:
 [] Timeline Manager / Project Manager
 [] backend dev (create pupeline/ ETL/ aggr. & predic.)
