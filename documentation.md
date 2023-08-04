@@ -13,3 +13,5 @@
 22.07.2023 - we had the first hackerthon onsites and meet each other for the first time. We get deeper to our scope and found all the datasource that we need for our project. We have work on some tasks that need to be create and try to create a proper timeline of this project --Aaron is in vacation right now untill the 2nd week of august. We plan to invest 10hr per week into this project our MIP is cleary defind but we are planing to push a little more efford into it so our POC will have some nice feature!
 
 26,07.2023 - The creation of the Datasource overview is done, creation of the Timeline is ongoing, creation of some tickets is done (technical / design)
+
+04.08.2023 (Phil) - Teams Call by Carlos and Phil, to create the overview for the files and rows that are of concern
