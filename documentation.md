@@ -15,3 +15,5 @@
 26,07.2023 - The creation of the Datasource overview is done, creation of the Timeline is ongoing, creation of some tickets is done (technical / design)
 
 04.08.2023 (Phil) - Teams Call by Carlos and Phil, to create the overview for the files and rows that are of concern
+
+12.08.2023 (Phil) - First Transformation of the current Datasets. Extraction of all the necessary excel sheets. First cleansing.
