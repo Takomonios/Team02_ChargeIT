@@ -1,17 +1,44 @@
-# team02 HI GUYS!
-Userstory/Scope of our project:
-Everyone would like to start buy an electric car, if we all have the right amount of money for that, but is the infrastructure in germany ready for that?
+# **Project Scope: Analysis of Germany's Suitability for 2030 Electrified Infrastructure Goals**
 
-We can provide an analytic overview and do some prediction about this topic.
+In this project, our objective is to examine Germany's suitability for achieving the defined 2030 infrastructure goals related to electrified vehicles. We will conduct an analysis using various data sources to provide a comprehensive assessment. The primary goals and activities of the project are as follows:
 
-We will create a overview about all the e car chargestation in germany and compared it with all the ecar user in germany, therefor we can estimate the amount of chargestation that need to be there - to satisfied amount of all ecars in germany.
+## Data Source Analysis and Evaluation:
 
-We also can predict the peak of the station and do some prediction of how much energy do the peak load of energy is and could it be handle by the infrastructure without an blackout and is it possible to do it better with some solutions idea.
+Investigate different data sources to gain insights into the current state of electrified vehicles in Germany.
+Analyze the growth of plug-in hybrids and electric vehicles (EVs) in Germany since their introduction.
+Capture of Public Charging Stations:
 
-Overall we want to display the "current" situation of the e charge station infrastructuer in germany, compare the number of e charge that is already install in gasstation with all the gasstation. Also we have to estimate of the energy that is used for 1 full charge to estimate the amount of energy that is "daily" needed. Also the number of e cars in germany was registered in 1-3 years. Therefore we can do some prediction about the future amount of e car that will be there and how many e charger should be in the gasstation in germany.
+Compile a comprehensive list of public charging stations across Germany.
+Capture precise location information of existing charging stations to enable accurate mapping.
+Forecast of Future Growth:
 
-its just a rought idea but will defined it later on!
+Based on analyzed data and trends, calculate the expected growth of plug-in hybrids and EVs in the upcoming years.
+Derive insights into the increasing demand for charging infrastructure.
+Location Analysis for New Charging Stations:
+
+Develop a model to identify optimal locations for installing new charging stations.
+Map regions with potentially higher demand for charging infrastructure to facilitate targeted initiatives.
+Results Presentation and Documentation:
+
+Create a comprehensive presentation of the findings, showcasing Germany's suitability for the defined infrastructure goals.
+Document the methodology, data sources, and assumptions for transparency and reproducibility.
+Through this focused analysis, we aim to gain valuable insights into the current and future requirements for electromobility in Germany. The combination of data analysis, forecasts, and location analysis will enable us to provide well-informed recommendations for achieving the 2030 infrastructure goals.
+
+## Technical Part:
+```
+find Data Source
+study Data (EDA)
+Transform Data
+write Algorithm that we gonna use for the prediction Model
+put our algorithm into a code
+prepare the data for Data Modeling (PowerBi)
+```
+## How to use the code: 
 
 
-I´m looking forward of you guys! 
-lets have a great project experience together! 
+## Documentation part
+
+create documentation log file
+create project 
+
+
