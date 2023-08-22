@@ -17,3 +17,5 @@
 04.08.2023 (Phil) - Teams Call by Carlos and Phil, to create the overview for the files and rows that are of concern
 
 12.08.2023 (Phil) - First Transformation of the current Datasets. Extraction of all the necessary excel sheets. First cleansing.
+
+12.08.2023 (Tak) - Re-thinking about our project scope, it need more "science" behind it, so lets brainstorming about it a bit and share some new ideas that we can try to impliment in it. Like: "Can Germany successfuly reach their goals about 2035 non bezin cars" 
