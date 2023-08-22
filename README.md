@@ -36,6 +36,9 @@ prepare the data for Data Modeling (PowerBi)
 ## How to use the code: 
 ```
 pip install -U scikit-learn
+
+pip install bokeh
+for mapping in python notebook
 ```
 
 ## Documentation part
