@@ -34,7 +34,9 @@ put our algorithm into a code
 prepare the data for Data Modeling (PowerBi)
 ```
 ## How to use the code: 
-
+```
+pip install -U scikit-learn
+```
 
 ## Documentation part
 
