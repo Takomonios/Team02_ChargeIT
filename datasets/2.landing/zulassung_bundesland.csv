@@ -1,0 +1,19 @@
+Land ,Kraftstoffart,Krafträder,Personenkraftwagen,Kraftomnibusse,Lastkraftwagen,Zugmaschinen,Sonstige Kfz
+Baden-Württemberg,Elektro (BEV),3536,71328,38,1473,25,133
+Bayern,Elektro (BEV),4866,95766,71,1868,21,147
+Berlin,Elektro (BEV),2046,10479,1,683,9,8
+Brandenburg,Elektro (BEV),576,8164,1,267,5,3
+Bremen,Elektro (BEV),72,2459,15,58,1,22
+Hamburg,Elektro (BEV),305,9149,52,361,-,14
+Hessen,Elektro (BEV),6049,47846,67,1199,4,100
+Mecklenburg-Vorpommern,Elektro (BEV),561,3883,36,184,2,-
+Niedersachsen,Elektro (BEV),2079,47860,103,1331,10,665
+Nordrhein-Westfalen,Elektro (BEV),4948,104233,77,8655,53,313
+Rheinland-Pfalz,Elektro (BEV),2478,23614,48,529,9,17
+Saarland,Elektro (BEV),341,5861,4,99,-,2
+Sachsen,Elektro (BEV),700,10663,38,538,-,18
+Sachsen-Anhalt,Elektro (BEV),1315,5560,3,279,-,5
+Schleswig-Holstein,Elektro (BEV),1516,16966,74,472,10,7
+Thüringen,Elektro (BEV),2294,6525,3,321,3,6
+Sonstige,Elektro (BEV),2,203,-,5,-,41
+Deutschland ,Elektro (BEV),33684,470559,631,18322,152,1501
