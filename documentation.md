@@ -21,3 +21,5 @@
 12.08.2023 (Tak) - Re-thinking about our project scope, it need more "science" behind it, so lets brainstorming about it a bit and share some new ideas that we can try to impliment in it. Like: "Can Germany successfuly reach their goals about 2035 non bezin cars" 
 
 27.08.2023 (Tak) - Add Knn Model in our code repo and also trying some mapping tool
+
+30.08.2023 (Phil) - Input Value 1: Set own location, Input Value 2: Set destination, Input Value 3: Range of car --> best possible charging station
