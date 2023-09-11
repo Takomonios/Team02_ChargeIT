@@ -16,7 +16,7 @@ A key feature of our project is route planning and reach calculation. We've deve
 
 Through these efforts and by utilizing the kNN algorithm, we aim to provide a powerful tool for EV drivers in Germany. They can use our service to find charging stations and plan their routes while considering their EV's range. We continuously refine and expand our data sources and algorithms to enhance the accuracy and utility of our service.
 
-## libraries:
+## Libraries:
 ```
 the libraries that we use for this project:
 pandas
@@ -24,18 +24,36 @@ numpy
 sklearn
 geopy
 folium
+tkinter
 ```
+## API: 
+Here is the [Link for the wiki]([https://pages.github.com/](https://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de))
+```
+openstreetmap API for map route
+
+
+```
+## Algorithm: 
+### kNN algorithm:
+- We apply the kNN algorithm along the identified route. For each point on the route, the kNN algorithm helps us find the 'k' nearest charging stations.
+- The 'k' value can be customized based on user preferences or system defaults. For example, if 'k' is set to 5, the algorithm will find the three nearest charging stations at each point along the route.
+```
+# we load the library 
+from sklearn.neighbors import NearestNeighbors
+
+# K-NN Algorithmus mit k=5 erstellen (um die nächstgelegenen 5 Stationen zu finden)
+knn = NearestNeighbors(n_neighbors=5)
+knn.fit(charging_stations)
+
+```
+
+
 ## How to use the code: 
+### Code:
 ```
-pip install -U scikit-learn
+openstreetmap API for map route
+Here is the [Link for the wiki]([https://pages.github.com/](https://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de))
 
-pip install bokeh
-for mapping in python notebook
 ```
-
-## Documentation part
-
-create documentation log file
-create project 
 
 
