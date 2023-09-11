@@ -51,9 +51,7 @@ knn.fit(charging_stations)
 ## How to use the code: 
 ### Code:
 ```
-openstreetmap API for map route
-Here is the [Link for the wiki]([https://pages.github.com/](https://wiki.openstreetmap.org/wiki/DE:Hauptseite?uselang=de))
-
+under construction:
 ```
 
 
