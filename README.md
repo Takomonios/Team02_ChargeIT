@@ -36,7 +36,7 @@ openstreetmap API for map route
 ## Algorithm: 
 ### kNN algorithm:
 
-![picture of easy explaination of knn algorythm](orga/Bildschirmfoto 2023-09-16 um 19.47.58.png)
+!(orga/Bildschirmfoto 2023-09-16 um 19.47.58.png)
 - We apply the kNN algorithm along the identified route. For each point on the route, the kNN algorithm helps us find the 'k' nearest charging stations.
 - The 'k' value can be customized based on user preferences or system defaults. For example, if 'k' is set to 5, the algorithm will find the three nearest charging stations at each point along the route.
 ```
@@ -61,9 +61,31 @@ Zielpunkt (Latitude of your endtpoint)
 Zielpunkt (Longitude of your endpoint)
 Reichweite (reachlimit of your EV)
 ```
-### Code:
+### App Code:
 ```
-under construction:
+All the libraries for the App:
+import requests
+from geopy.distance import geodesic
+from geopy.geocoders import Nominatim
+import tkinter as tk
+from tkinter import ttk
+import folium
+import webbrowser
+import tempfile
+import pandas as pd
+from sklearn.neighbors import BallTree
 ```
 
+```
+KNN Ball Tree algorithm
+Function to search for charging stations near a point:
+def find_ladestationen_in_der_naehe(lat, lon, k=5):
+    coordinates = data[['latitude', 'longitude']].values
+    tree = BallTree(coordinates)
 
+Find the k nearest charging stations to the given point:
+    ladestationen_idx = tree.query([[lat, lon]], k=k, return_distance=False)[0]
+    ladestationen = data.iloc[ladestationen_idx]
+    return ladestationen
+
+```
