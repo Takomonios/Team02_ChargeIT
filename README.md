@@ -35,6 +35,8 @@ openstreetmap API for map route
 ```
 ## Algorithm: 
 ### kNN algorithm:
+
+![picture of easy explaination of knn algorythm](orga/Bildschirmfoto 2023-09-16 um 19.47.58.png)
 - We apply the kNN algorithm along the identified route. For each point on the route, the kNN algorithm helps us find the 'k' nearest charging stations.
 - The 'k' value can be customized based on user preferences or system defaults. For example, if 'k' is set to 5, the algorithm will find the three nearest charging stations at each point along the route.
 ```
@@ -49,6 +51,16 @@ knn.fit(charging_stations)
 
 
 ## How to use the code: 
+```
+run app.ipynb file
+then choose your python kernel
+after that an UI will asked you about:
+Startpunkt (Latitude of your startpoint)
+Startpunkt (Longitude of your startpoint)
+Zielpunkt (Latitude of your endtpoint)
+Zielpunkt (Longitude of your endpoint)
+Reichweite (reachlimit of your EV)
+```
 ### Code:
 ```
 under construction:
